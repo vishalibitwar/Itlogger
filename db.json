@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed Hard disk on work Station 005",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-04-02T14:18:31.575Z"
+    },
+    {
+      "message": "Changed Network Card in server 001",
+      "attention": false,
+      "tech": "Ramu kaka",
+      "date": "2020-04-02T14:17:39.009Z",
+      "id": 2
+    },
+    {
+      "message": "1198 wireless down",
+      "attention": true,
+      "tech": "Anolkhi Manus",
+      "date": "2020-04-02T14:18:06.161Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Ramu",
+      "lastname": "kaka"
+    },
+    {
+      "id": 2,
+      "firstname": "Anolkhi",
+      "lastname": "Manus"
+    },
+    {
+      "id": 3,
+      "firstname": "John",
+      "lastname": "Doe"
+    }
+  ]
+}
